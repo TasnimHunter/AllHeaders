@@ -46,6 +46,6 @@ The tool currently tests for the following vulnerabilities:
 
 Feel free to contribute to this project by submitting issues or pull requests. All contributions are welcome!
 
-Disclaimer
+### Disclaimer
 
 This tool is intended for educational purposes and authorized security testing only. The author is not responsible for any misuse or illegal activity conducted with this tool.
