@@ -23,7 +23,7 @@
 ## Usage
 1. Run the script:
    ```
-   python AllHeaders.py
+   python AllHeaders.py (url)
 2. Enter the target URL when prompted:
    ```
    Enter the URL to test for HTTP header vulnerabilities: http://example.com
